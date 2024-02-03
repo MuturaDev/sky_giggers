@@ -17,7 +17,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/skygiggers-webview.git
+git clone [https://github.com/your-username/skygiggers-webview.git](https://github.com/MuturaDev/sky_giggers/tree/main)
 Open the project in your preferred development environment.
 
 Customize the WebView settings in the code to point to the desired websites connecting clients to projects.
